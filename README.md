@@ -5,6 +5,8 @@ this project was designed to help me learn Golang.
 
 I started it a couple months ago, but only recently continued it and put it on github.
 
+## it is not working yet.
+
 here is a project overview :
 
 ### cmd/main.go
