@@ -3,6 +3,8 @@ Gameboy Emulator written entirely in Go.
 
 this project was designed to help me learn Golang.
 
+I started it a couple months ago, but only recently continued it and put it on github.
+
 here is a project overview :
 
 ### cmd/main.go
@@ -18,3 +20,10 @@ This package contains the core components of your emulator:
 - gpu.go: Handles the graphics processing unit, responsible for rendering the Game Boy’s display.
 - apu.go: (Optional, at first) Implements sound emulation.
 - cartridge.go: Loads and manages the ROM, including bank switching logic if you plan to support more than basic games.
+
+
+## Building and Running
+
+1. Build the emulator:
+   ```bash
+   go build -o gameboy-emulator ./cmd
