@@ -27,3 +27,9 @@ This package contains the core components of your emulator:
 1. Build the emulator:
    ```bash
    go build -o gameboy-emulator ./cmd
+   ```
+
+2. Run the emulator with a downloadwd ROM
+  ```bash
+  ./gameboy-emulator path/to/your/game.rom
+  ```
