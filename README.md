@@ -1,4 +1,4 @@
-# gameboy-emul-golang
+# Gameboy Emulator in Golang
 Gameboy Emulator written entirely in Go.
 
 this project was designed to help me learn Golang.
